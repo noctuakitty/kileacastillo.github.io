@@ -1,0 +1,17 @@
+body { 
+    font: 11px/18px verdana,arial,helvetica,sans-serif; 
+    color: crimson; 
+    background:#eee; 
+    margin: 0;
+    padding: 0;
+    text-align: center;	 
+    border: crimson;
+    border-style: double;
+    border-radius: 10px;
+    
+   }
+   
+
+/*<h1>I think I'm addicted</h1>
+<h2>to coding web-pages</h2>
+<p>Like seriously I can't stop I got other homework to do.</p>
